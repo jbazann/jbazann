@@ -12,7 +12,7 @@ Between thick walls of encapsulation echoes a constant beat.
 Behind declarative cries breaks redundant behavior.
   Threading needles of principle, it shall refactor the perfect patterns.
 
-Far out of scope are the images of release.
+Far out of scope is the image of release.
   Parsing endless documentation, it shall search the undefined.
 ```
 
