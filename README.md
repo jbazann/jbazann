@@ -9,7 +9,7 @@ Beyond many layers of abstraction hides a shattered heart.
 Between thick walls of encapsulation echoes a constant beat.
   Iterating over its truth, it shall coerce itself into responses.
 
-In declarative cries breaks redundant behavior.
+Beyond declarative cries breaks redundant behavior.
   Threading needles of principle, it shall refactor the perfect patterns.
 
 Far out of scope are the images of release.
